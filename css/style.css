@@ -1573,13 +1573,19 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 @media (max-width: 768px) {
+  #header #logo h1 {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 768px) {
   .back-to-top {
     bottom: 15px;
   }
 
-  #header #logo h1 {
+  /* #header #logo h1 {
     font-size: 28px;
-  }
+  } */
 
   #header #logo img {
     max-height: 40px;
