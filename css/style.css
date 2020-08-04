@@ -1065,7 +1065,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #b8b8b8;
   font-weight: 500;
   font-size: 14px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 /* Clients Section
